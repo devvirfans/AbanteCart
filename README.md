@@ -9,19 +9,23 @@
 # Sekilas Tentang
 [`^ kembali ke atas ^`](#)
 
-**Prestashop** adalah sebuah CMS (*content management system*) aplikasi web *e-commerce* yang gratis dan *Open Source*. Aplikasi ini mulai beroperasi pada tahun 2005 sebagai proyek dari seorang murid *EPITECH IT School* di Paris, Perancis, yang awalnya bernama `phpOpenStore`. Hingga saat ini, **Prestashop** telah berkembang pesat dan berkomitmen untuk memberikan pengalaman berbelanja terbaik untuk para pedagang dan pelanggannya. 
-
-
+**FarmOS** adalah aplikasi web *sumber terbuka* yang dirancang untuk membantu petani dalam mengelola operasi pertanian mereka. Ini menyediakan berbagai alat untuk melacak berbagai aspek pertanian, termasuk perencanaan tanaman, penanaman, panen, manajemen ternak, pelacakan peralatan, dan lainnya. FarmOS sangat berguna bagi petani yang ingin mengorganisasi dan mengoptimalkan aktivitas pertanian mereka, menjaga catatan, dan membuat keputusan berdasarkan data. **FarmOS** dapat disesuaikan sesuai dengan kebutuhan petani, baik itu peternakan keluarga kecil maupun operasi komersial yang lebih besar.
 
 # Instalasi
 [`^ kembali ke atas ^`](#)
 
 #### Kebutuhan Sistem :
-- Unix, Linux atau Windows.
-- Apache Web server 1.3+.
-- PHP 5.2+.
-- MySQL 5.0+.
-- RAM minimal 64 Mb+
+- FarmOS kompatibel dengan berbagai sistem operasi, termasuk Linux, Windows, dan macOS.
+- Apache, Nginx, atau server web serupa.
+- PHP versi 7.2 atau yang lebih tinggi.
+- MySQL 5.7 atau yang lebih tinggi ATAU PostgreSQL 9.5 atau yang lebih tinggi.
+- Browser web modern seperti Google Chrome, Mozilla Firefox, atau Microsoft Edge untuk mengakses antarmuka web FarmOS.
+- Setidaknya 1GB ruang disk yang tersedia untuk kode FarmOS dan penyimpanan data dasar. Ruang tambahan mungkin diperlukan untuk media dan dokumen yang diunggah.
+- Direkomendasikan memiliki setidaknya 2GB RAM. Persyaratan RAM sebenarnya dapat bervariasi tergantung pada ukuran dan kompleksitas pertanian serta data Anda.
+- Persyaratan Tambahan: Periksa modul dan fitur khusus yang Anda rencanakan untuk digunakan dalam FarmOS, karena beberapa modul mungkin memiliki persyaratan tambahan. Misalnya, jika Anda berencana menggunakan fitur pemetaan, pastikan perpustakaan pemetaan yang relevan telah diinstal.
+
+
+
 
 #### Proses Instalasi :
 1. Login kedalam server menggunakan SSH. Untuk pengguna windows bisa menggunakan aplikasi [PuTTY](http://www.putty.org/).
