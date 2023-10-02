@@ -66,7 +66,13 @@
 
 2. Buka menu softaculous apps installer, kemudian pilih wordpress.
 
+    ![step2_1](https://github.com/devvirfans/AbanteCart/assets/91817504/6bf433d7-4307-4014-8ba5-ebfebd4dd7df)
+
 3. Pilih kategori E-Commerce lalu pilih AbanteCart dan klik "Install Now."
+
+    ![step3_1](https://github.com/devvirfans/AbanteCart/assets/91817504/2b58110e-0c3a-4bae-b41b-6bbadc3e0df6)
+
+    ![step3_2](https://github.com/devvirfans/AbanteCart/assets/91817504/fce4c37e-41ab-46a7-be57-ef599f43fa94)
 
 4. Setting URL
 
