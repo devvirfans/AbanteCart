@@ -1,7 +1,7 @@
 # AbanteCart
 <h1 align="center"><img src="https://github.com/devvirfans/AbanteCart/assets/91817504/63453d13-859d-45a8-8b94-885104e5a552"></h1>
 
-[Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Cara Pemakaian](#cara-pemakaian) | [Otomatisasi](#otomatisasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
+[Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:
 
 
