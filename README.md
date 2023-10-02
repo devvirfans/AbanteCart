@@ -9,7 +9,31 @@
 # Sekilas Tentang
 [`^ kembali ke atas ^`](#)
 
-**FarmOS** adalah aplikasi web *sumber terbuka* yang dirancang untuk membantu petani dalam mengelola operasi pertanian mereka. Ini menyediakan berbagai alat untuk melacak berbagai aspek pertanian, termasuk perencanaan tanaman, penanaman, panen, manajemen ternak, pelacakan peralatan, dan lainnya. FarmOS sangat berguna bagi petani yang ingin mengorganisasi dan mengoptimalkan aktivitas pertanian mereka, menjaga catatan, dan membuat keputusan berdasarkan data. **FarmOS** dapat disesuaikan sesuai dengan kebutuhan petani, baik itu peternakan keluarga kecil maupun operasi komersial yang lebih besar.
+**AbanteCart** adalah *platform e-commerce open-source* yang kaya fitur dan ramah pengguna yang dirancang untuk membantu bisnis dan individu dalam membuat dan mengelola toko online dengan efektif. Ini menawarkan beragam alat dan fitur untuk membangun dan menyesuaikan *situs web e-commerce*, menjadikannya pilihan populer bagi pedagang online dari berbagai ukuran.
+
+## Fitur Utama
+
+- **Antarmuka Ramah Pengguna:** AbanteCart menyediakan antarmuka yang intuitif dan ramah pengguna, sehingga dapat diakses oleh pemula maupun pengusaha e-commerce berpengalaman.
+
+- **Penyesuaian:** Ini memungkinkan pengguna untuk menyesuaikan tampilan dan nuansa toko online mereka dengan beragam tema dan template.
+
+- **Manajemen Produk:** AbanteCart menawarkan kemampuan manajemen produk yang kuat, memungkinkan pengguna untuk dengan mudah menambahkan, mengedit, dan mengatur produk.
+
+- **Opsi Pembayaran:** Ini mendukung berbagai gateway pembayaran, termasuk PayPal, Stripe, dan pemrosesan kartu kredit, sehingga transaksi aman dan lancar.
+
+- **Konfigurasi Pengiriman:** Pengguna dapat mengonfigurasi opsi pengiriman dan tarif berdasarkan kriteria seperti lokasi, berat, dan dimensi.
+
+- **SEO-Friendly:** Platform ini mencakup fitur SEO untuk mengoptimalkan daftar produk dan meningkatkan visibilitas mesin pencari.
+
+- **Dukungan Multi-Bahasa dan Multi-Mata Uang:** AbanteCart mendukung berbagai bahasa dan mata uang, sehingga cocok untuk bisnis global.
+
+- **Responsif pada Perangkat Mobile:** Ini memastikan bahwa toko online dapat diakses dengan responsif pada berbagai perangkat, termasuk smartphone dan tablet.
+
+- **Keamanan:** AbanteCart memprioritaskan keamanan, menawarkan fitur seperti dukungan SSL dan enkripsi data untuk melindungi informasi pelanggan.
+
+- **Ekstensi dan Add-Ons:** Pengguna dapat memperluas fungsionalitasnya dengan berbagai ekstensi dan add-on yang tersedia melalui pasar AbanteCart.
+
+- **Dukungan Komunitas:** AbanteCart memiliki komunitas aktif pengguna dan pengembang yang memberikan dukungan dan sumber daya untuk pemecahan masalah dan penyesuaian.
 
 # Instalasi
 [`^ kembali ke atas ^`](#)
