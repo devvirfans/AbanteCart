@@ -1,7 +1,7 @@
 # AbanteCart
 <h1 align="center"><img src="https://github.com/devvirfans/AbanteCart/assets/91817504/63453d13-859d-45a8-8b94-885104e5a552"></h1>
 
-[Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
+[Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Cara Pemakaian](#cara-pemakaian) | [Review](#review) | [Referensi](#referensi)
 :---:|:---:|:---:|:---:|:---:|
 
 
@@ -47,9 +47,6 @@
 - Linux-based OS (recommended)
 - Adequate Memory (64MB+ RAM)
 - Sufficient Disk Space (2GB+)
-
-
-
 
 ## Proses Instalasi :
 1. Pilih paket hosting dan nama domain.
@@ -108,6 +105,19 @@
 
 # Review
 [`^ kembali ke atas ^`](#)
+- Masih terdapat fitur website yang seharusnya dapat diimprove dari segi penampilan. Seharusnya underlined dihilangkan dan font color bisa disesuaikan.
+
+    ![Review_1](https://github.com/devvirfans/AbanteCart/assets/91817504/2d75c089-c2ad-44a5-aca3-a278c7889193)
+
+- Memiliki user experience yang cukup efektif karena user bisa langsung buy tanpa harus add cart seperti toko online lainnya 
+
+    ![Review_2](https://github.com/devvirfans/AbanteCart/assets/91817504/23be98de-5c3f-4b17-b01c-fe39ef2fc735)
+
+- Memiliki fitur yang menarik karena dapat menyesuaikan nominal harga dengan mata uang lain. Namun, IDR masih belum masuk ke dalamnya
+
+    ![Review_3](https://github.com/devvirfans/AbanteCart/assets/91817504/5d92ccac-041b-4631-9219-b5022fd59bdb)
+
+
 # Referensi
 [`^ kembali ke atas ^`](#)
 
