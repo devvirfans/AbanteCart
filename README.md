@@ -97,8 +97,8 @@
 ## Admin
 - Menggunakan link admin (http://p1kel3komdat2023.my.id/cobaprojek/index.php?s=admin123)
 - Masukkan Username dan Password
-    Username: lds5i
-    Password: @6@UNU$pWk
+    + Username: lds5i
+    + Password: @6@UNU$pWk
 - Pengguna akan masuk ke dalam dashboard admin
 ## User
 - Menggunakan link user (http://p1kel3komdat2023.my.id/cobaprojek/)
@@ -106,9 +106,9 @@
 - Untuk melakukan pembelian, pengguna harus melakukan login akun
 - Klik produk, masukan jumlah yang dibayar, pilih metode, dan bayar
 
-# Pembahasan
+# Review
 [`^ kembali ke atas ^`](#)
-
+-
 # Referensi
 [`^ kembali ke atas ^`](#)
 
