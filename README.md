@@ -1,5 +1,5 @@
 # FarmOS
-<h1 align="center"><img src="![farmOS](https://github.com/devvirfans/FarmOS/assets/91817504/03baf912-954c-44b8-8ba5-a0d5a8e262fa)"></h1>
+<h1 align="center"><img src="https://github.com/devvirfans/FarmOS/issues/1#issue-1922019407"></h1>
 
 [Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Konfigurasi](#konfigurasi) | [Otomatisasi](#otomatisasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:
