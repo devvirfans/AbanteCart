@@ -38,20 +38,20 @@
 # Instalasi
 [`^ kembali ke atas ^`](#)
 
-#### Kebutuhan Sistem :
-- FarmOS kompatibel dengan berbagai sistem operasi, termasuk Linux, Windows, dan macOS.
-- Apache, Nginx, atau server web serupa.
-- PHP versi 7.2 atau yang lebih tinggi.
-- MySQL 5.7 atau yang lebih tinggi ATAU PostgreSQL 9.5 atau yang lebih tinggi.
-- Browser web modern seperti Google Chrome, Mozilla Firefox, atau Microsoft Edge untuk mengakses antarmuka web FarmOS.
-- Setidaknya 1GB ruang disk yang tersedia untuk kode FarmOS dan penyimpanan data dasar. Ruang tambahan mungkin diperlukan untuk media dan dokumen yang diunggah.
-- Direkomendasikan memiliki setidaknya 2GB RAM. Persyaratan RAM sebenarnya dapat bervariasi tergantung pada ukuran dan kompleksitas pertanian serta data Anda.
-- Persyaratan Tambahan: Periksa modul dan fitur khusus yang Anda rencanakan untuk digunakan dalam FarmOS, karena beberapa modul mungkin memiliki persyaratan tambahan. Misalnya, jika Anda berencana menggunakan fitur pemetaan, pastikan perpustakaan pemetaan yang relevan telah diinstal.
+## Kebutuhan Sistem :
+- Web Server: Apache or Nginx
+- PHP Version: PHP 5.6 or later (PHP 7.x recommended)
+- Database: MySQL 5.1 or later (MySQL 5.6+ or MariaDB 10.x recommended)
+- Web Hosting: Shared hosting, VPS, or dedicated server
+- Required PHP Extensions: cURL, GD Library, ZIP Archive
+- Linux-based OS (recommended)
+- Adequate Memory (64MB+ RAM)
+- Sufficient Disk Space (2GB+)
 
 
 
 
-#### Proses Instalasi :
+## Proses Instalasi :
 1. Login kedalam server menggunakan SSH. Untuk pengguna windows bisa menggunakan aplikasi [PuTTY](http://www.putty.org/).
     ```
     $ ssh adam@172.18.88.88 -p 22
