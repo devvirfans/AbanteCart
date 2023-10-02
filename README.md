@@ -53,10 +53,15 @@
 
 ## Proses Instalasi :
 1. Pilih paket hosting dan nama domain.
+
     ![step1](https://github.com/devvirfans/AbanteCart/assets/91817504/33297b4e-9900-4a08-b332-8fff3a068e9a)
+
     ![step2](https://github.com/devvirfans/AbanteCart/assets/91817504/5c6fa724-d1f0-420e-9e81-807b43d1283d)
+
     ![step3](https://github.com/devvirfans/AbanteCart/assets/91817504/ea721703-df68-4c51-a37d-1899075931d7)
+
     ![step4](https://github.com/devvirfans/AbanteCart/assets/91817504/08f17ba7-1172-48d5-9b84-573ec00fe911)
+    
     ![step5](https://github.com/devvirfans/AbanteCart/assets/91817504/743eec25-2646-41bb-9694-1237279063d6)
 
 2. Buka menu softaculous apps installer, kemudian pilih wordpress.
