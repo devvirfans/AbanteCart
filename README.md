@@ -1,7 +1,7 @@
 # AbanteCart
 <h1 align="center"><img src="https://github.com/devvirfans/AbanteCart/assets/91817504/63453d13-859d-45a8-8b94-885104e5a552"></h1>
 
-[Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Konfigurasi](#konfigurasi) | [Otomatisasi](#otomatisasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
+[Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Cara Pemakaian](#cara-pemakaian) | [Otomatisasi](#otomatisasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:
 
 
@@ -76,10 +76,20 @@
 
 4. Setting URL
 
+    ![step4_1](https://github.com/devvirfans/AbanteCart/assets/91817504/94b2652a-60e8-424a-97b0-e820b918092f)
+
 5. Setting Admin
+
+    ![step5_1](https://github.com/devvirfans/AbanteCart/assets/91817504/94b2652a-60e8-424a-97b0-e820b918092f)
+
+    ![step5_2](https://github.com/devvirfans/AbanteCart/assets/91817504/174f3e3d-9871-4809-a874-e1bdce385f3d)
+
 
 6. Instalasi sukses!
 
+    ![step6_1](https://github.com/devvirfans/AbanteCart/assets/91817504/41fd8054-3a9c-48a7-b271-9abf42a41d95)
+
+    ![step6_2](https://github.com/devvirfans/AbanteCart/assets/91817504/15fb48ee-a75e-4901-980a-ae430d9f0d5c)
 
 # Konfigurasi
 [`^ kembali ke atas ^`](#)
@@ -100,7 +110,7 @@
 
 
 
-# Maintenance
+# Cara Pemakaian
 [`^ kembali ke atas ^`](#)
 
 Ketika kita ingin memodifikasi toko yang sudah terinstall, kita mungkin tidak ingin ada orang lain yang membuka aplikasi kita. Pada saat seperti itu, kita dapat mengkonfigurasi aplikasi kita untuk masuk ke dalam *maintenance mode*. Berikut ini adalah langkah-langkah yang harus kita lakukan :
