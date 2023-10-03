@@ -50,7 +50,7 @@
 
 
 ## Proses Instalasi :
-**1. Pilih paket hosting dan nama domain.**
+**1. Pilih paket hosting dan nama domain menggunakan Rumahweb.**
     ![step1_1](https://github.com/devvirfans/AbanteCart/assets/91817504/33297b4e-9900-4a08-b332-8fff3a068e9a)
     ![step1_2](https://github.com/devvirfans/AbanteCart/assets/91817504/5c6fa724-d1f0-420e-9e81-807b43d1283d)  
     ![step1_3](https://github.com/devvirfans/AbanteCart/assets/91817504/ea721703-df68-4c51-a37d-1899075931d7)  
