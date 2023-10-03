@@ -1,7 +1,7 @@
 # AbanteCart
 <h1 align="center"><img src="https://github.com/devvirfans/AbanteCart/assets/91817504/63453d13-859d-45a8-8b94-885104e5a552"></h1>
 
-[Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Cara Pemakaian](#cara-pemakaian) | [Kelebihan & Kekurangan](#kelebihan-dan-kekurangan) | [Referensi](#referensi)
+[Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Cara Pemakaian](#cara-pemakaian) | [Kelebihan dan Kekurangan](#kelebihan-dan-kekurangan) | [Referensi](#referensi)
 :---:|:---:|:---:|:---:|:---:|
 
 
@@ -103,7 +103,7 @@
 - Untuk melakukan pembelian, pengguna harus melakukan login akun
 - Klik produk, masukan jumlah yang dibayar, pilih metode, dan bayar
 
-# Kelebihan & Kekurangan
+# Kelebihan dan Kekurangan
 [`^ kembali ke atas ^`](#)
 ## Kelebihan
 - Memiliki user experience yang cukup efektif karena user bisa langsung buy tanpa harus add cart seperti toko online lainnya 
