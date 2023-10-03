@@ -77,15 +77,13 @@
 
 **5. Setting URL untuk publik-> (http://p1kel3komdat2023.my.id/cobaprojek/)**
     ![step5_1](https://github.com/devvirfans/AbanteCart/assets/91817504/94b2652a-60e8-424a-97b0-e820b918092f)
-    
-    http://p1kel3komdat2023.my.id/cobaprojek/ 
+    (http://p1kel3komdat2023.my.id/cobaprojek/) 
    
 
 **6. Setting URL Admin (http://p1kel3komdat2023.my.id/cobaprojek/index.php?s=admin123) dan akun Admin**
     ![step6_1](https://github.com/devvirfans/AbanteCart/assets/91817504/94b2652a-60e8-424a-97b0-e820b918092f)
     ![step6_2](https://github.com/devvirfans/AbanteCart/assets/91817504/174f3e3d-9871-4809-a874-e1bdce385f3d)
-    
-    http://p1kel3komdat2023.my.id/cobaprojek/index.php?s=admin123
+    (http://p1kel3komdat2023.my.id/cobaprojek/index.php?s=admin123)
 
 **7. Setting database**
     ![step7_1](https://github.com/devvirfans/AbanteCart/assets/117278512/bf724a74-1635-4091-8f11-cf9b63d7e584)
