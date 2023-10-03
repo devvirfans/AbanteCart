@@ -52,14 +52,11 @@
 ## Proses Instalasi :
 **1. Pilih paket hosting dan nama domain.**
     ![step1_1](https://github.com/devvirfans/AbanteCart/assets/91817504/33297b4e-9900-4a08-b332-8fff3a068e9a)
-
-    ![step1_2](https://github.com/devvirfans/AbanteCart/assets/91817504/5c6fa724-d1f0-420e-9e81-807b43d1283d) 
-    
-    ![step1_3](https://github.com/devvirfans/AbanteCart/assets/91817504/ea721703-df68-4c51-a37d-1899075931d7) 
-    
-    ![step1_4](https://github.com/devvirfans/AbanteCart/assets/91817504/08f17ba7-1172-48d5-9b84-573ec00fe911) 
-    
+    ![step1_2](https://github.com/devvirfans/AbanteCart/assets/91817504/5c6fa724-d1f0-420e-9e81-807b43d1283d)  
+    ![step1_3](https://github.com/devvirfans/AbanteCart/assets/91817504/ea721703-df68-4c51-a37d-1899075931d7)  
+    ![step1_4](https://github.com/devvirfans/AbanteCart/assets/91817504/08f17ba7-1172-48d5-9b84-573ec00fe911)  
     ![step1_5](https://github.com/devvirfans/AbanteCart/assets/91817504/743eec25-2646-41bb-9694-1237279063d6)
+    
     
 
   
@@ -73,22 +70,21 @@
     
 
 **4. Pilih kategori E-Commerce lalu pilih AbanteCart dan klik "Install Now" untuk menginstall AbanteCart.**
-
-    ![step4_1](https://github.com/devvirfans/AbanteCart/assets/91817504/2b58110e-0c3a-4bae-b41b-6bbadc3e0df6)
-
-    ![step4_2](https://github.com/devvirfans/AbanteCart/assets/91817504/fce4c37e-41ab-46a7-be57-ef599f43fa94)
+     ![step4_1](https://github.com/devvirfans/AbanteCart/assets/91817504/2b58110e-0c3a-4bae-b41b-6bbadc3e0df6)
+     ![step4_2](https://github.com/devvirfans/AbanteCart/assets/91817504/fce4c37e-41ab-46a7-be57-ef599f43fa94)
+    
    
 
 **5. Setting URL untuk publik-> (http://p1kel3komdat2023.my.id/cobaprojek/)**
-
     ![step5_1](https://github.com/devvirfans/AbanteCart/assets/91817504/94b2652a-60e8-424a-97b0-e820b918092f)
+    
     http://p1kel3komdat2023.my.id/cobaprojek/ 
    
 
 **6. Setting URL Admin (http://p1kel3komdat2023.my.id/cobaprojek/index.php?s=admin123) dan akun Admin**
     ![step6_1](https://github.com/devvirfans/AbanteCart/assets/91817504/94b2652a-60e8-424a-97b0-e820b918092f)
-
     ![step6_2](https://github.com/devvirfans/AbanteCart/assets/91817504/174f3e3d-9871-4809-a874-e1bdce385f3d)
+    
     http://p1kel3komdat2023.my.id/cobaprojek/index.php?s=admin123
 
 **7. Setting database**
@@ -96,10 +92,10 @@
     
 
 **8. Instalasi sukses!**
-
     ![step8_1](https://github.com/devvirfans/AbanteCart/assets/91817504/41fd8054-3a9c-48a7-b271-9abf42a41d95)
-
     ![step8_2](https://github.com/devvirfans/AbanteCart/assets/91817504/15fb48ee-a75e-4901-980a-ae430d9f0d5c)
+    
+    
    
 
 # Cara Pemakaian
@@ -142,3 +138,4 @@
 [`^ kembali ke atas ^`](#)
 
 1. [About AbanteCart](https://www.abantecart.com/about-abantecart-ecommerce) - AbanteCart
+2. [TutorialHosting](https://www.youtube.com/watch?v=GMnSyNh-jSc) - TutorialHosting
