@@ -136,4 +136,4 @@
 [`^ kembali ke atas ^`](#)
 
 1. [About AbanteCart](https://www.abantecart.com/about-abantecart-ecommerce) - AbanteCart
-2. [TutorialHosting](https://www.youtube.com/watch?v=GMnSyNh-jSc) - TutorialHosting
+2. [Video Tutorial Setup Web Hosting](https://www.youtube.com/watch?v=GMnSyNh-jSc) - Video Tutorial Setup Web Hosting
