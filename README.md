@@ -1,7 +1,7 @@
 # AbanteCart
 <h1 align="center"><img src="https://github.com/devvirfans/AbanteCart/assets/91817504/63453d13-859d-45a8-8b94-885104e5a552"></h1>
 
-[Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Cara Pemakaian](#cara-pemakaian) | [Kelebihan dan Kekurangan](#kelebihan-dan-kekurangan) | [Referensi](#referensi)
+[Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Cara Pemakaian](#cara-pemakaian) | [Review](#review) | [Referensi](#referensi)
 :---:|:---:|:---:|:---:|:---:|
 
 
@@ -49,7 +49,7 @@
 - Sufficient Disk Space (2GB+)
 
 ## Proses Instalasi :
-1. Pilih paket hosting dan nama domain.
+**1. Pilih paket hosting dan nama domain.****
 
     ![step1_1](https://github.com/devvirfans/AbanteCart/assets/91817504/33297b4e-9900-4a08-b332-8fff3a068e9a)
 
@@ -61,32 +61,45 @@
 
     ![step1_5](https://github.com/devvirfans/AbanteCart/assets/91817504/743eec25-2646-41bb-9694-1237279063d6)
 
-2. Buka menu softaculous apps installer, kemudian pilih wordpress.
+  
+**2. Hosting menggunakan cPanel. Login ke halaman cPanel**
+   ![step2_1](https://github.com/devvirfans/AbanteCart/assets/117278512/9a99f569-a1bf-4d53-b4bb-5497fc88ad9a)
+   
 
-    ![step2_1](https://github.com/devvirfans/AbanteCart/assets/91817504/6bf433d7-4307-4014-8ba5-ebfebd4dd7df)
+**3. Pada cPanel, pilih aplikasi yang akan dihosting di menu softaculous apps installer. Kita memilih AbanteCart.**
 
-3. Pilih kategori E-Commerce lalu pilih AbanteCart dan klik "Install Now."
+    ![step3_1](https://github.com/devvirfans/AbanteCart/assets/91817504/6bf433d7-4307-4014-8ba5-ebfebd4dd7df)
+   
 
-    ![step3_1](https://github.com/devvirfans/AbanteCart/assets/91817504/2b58110e-0c3a-4bae-b41b-6bbadc3e0df6)
+**4. Pilih kategori E-Commerce lalu pilih AbanteCart dan klik "Install Now" untuk menginstall AbanteCart.**
 
-    ![step3_2](https://github.com/devvirfans/AbanteCart/assets/91817504/fce4c37e-41ab-46a7-be57-ef599f43fa94)
+    ![step4_1](https://github.com/devvirfans/AbanteCart/assets/91817504/2b58110e-0c3a-4bae-b41b-6bbadc3e0df6)
 
-4. Setting URL
+    ![step4_2](https://github.com/devvirfans/AbanteCart/assets/91817504/fce4c37e-41ab-46a7-be57-ef599f43fa94)
+   
 
-    ![step4_1](https://github.com/devvirfans/AbanteCart/assets/91817504/94b2652a-60e8-424a-97b0-e820b918092f)
-
-5. Setting Admin
+**5. Setting URL untuk publik-> (http://p1kel3komdat2023.my.id/cobaprojek/)**
 
     ![step5_1](https://github.com/devvirfans/AbanteCart/assets/91817504/94b2652a-60e8-424a-97b0-e820b918092f)
+    http://p1kel3komdat2023.my.id/cobaprojek/ 
+   
 
-    ![step5_2](https://github.com/devvirfans/AbanteCart/assets/91817504/174f3e3d-9871-4809-a874-e1bdce385f3d)
+**6. Setting URL Admin (http://p1kel3komdat2023.my.id/cobaprojek/index.php?s=admin123) dan akun Admin**
+    ![step6_1](https://github.com/devvirfans/AbanteCart/assets/91817504/94b2652a-60e8-424a-97b0-e820b918092f)
 
+    ![step6_2](https://github.com/devvirfans/AbanteCart/assets/91817504/174f3e3d-9871-4809-a874-e1bdce385f3d)
+    http://p1kel3komdat2023.my.id/cobaprojek/index.php?s=admin123
 
-6. Instalasi sukses!
+**7. Setting database**
+    ![step7_1](https://github.com/devvirfans/AbanteCart/assets/117278512/bf724a74-1635-4091-8f11-cf9b63d7e584)
+    
 
-    ![step6_1](https://github.com/devvirfans/AbanteCart/assets/91817504/41fd8054-3a9c-48a7-b271-9abf42a41d95)
+**8. Instalasi sukses!**
 
-    ![step6_2](https://github.com/devvirfans/AbanteCart/assets/91817504/15fb48ee-a75e-4901-980a-ae430d9f0d5c)
+    ![step8_1](https://github.com/devvirfans/AbanteCart/assets/91817504/41fd8054-3a9c-48a7-b271-9abf42a41d95)
+
+    ![step8_2](https://github.com/devvirfans/AbanteCart/assets/91817504/15fb48ee-a75e-4901-980a-ae430d9f0d5c)
+   
 
 # Cara Pemakaian
 [`^ kembali ke atas ^`](#)
@@ -103,7 +116,8 @@
 - Untuk melakukan pembelian, pengguna harus melakukan login akun
 - Klik produk, masukan jumlah yang dibayar, pilih metode, dan bayar
 
-# Kelebihan dan Kekurangan
+
+# Review
 [`^ kembali ke atas ^`](#)
 ## Kelebihan
 - Memiliki user experience yang cukup efektif karena user bisa langsung buy tanpa harus add cart seperti toko online lainnya 
@@ -121,6 +135,7 @@
 
 - Belum ada penyedia payment (*3rd party payment service*) sehingga harus disediakan sendiri secara manual
 
+   
 
 # Referensi
 [`^ kembali ke atas ^`](#)
